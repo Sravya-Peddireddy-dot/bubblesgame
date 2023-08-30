@@ -1,5 +1,5 @@
 # Bubbles Game
-* preveiw the page [Bubble Game(https://github.com/Sravya-Peddireddy-dot/bubblesgame.git)]
+* preveiw the page [Bubble Game(https://sravya-peddireddy-dot.github.io/bubblesgame/)]
 
 
 * This is a simple game where a player scores by clicking on the bubble
